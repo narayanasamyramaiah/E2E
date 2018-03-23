@@ -34,14 +34,14 @@
 	</build>
 	
 	<dependencies>
-		<dependency>
+		
 			<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server-standalone -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-server-standalone</artifactId>
     <version>2.53.0</version>
 </dependency>
-		</dependency>
+		
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
